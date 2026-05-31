@@ -39,7 +39,6 @@ The assistant validates the reference and returns the corresponding verse from t
 
 ---
 
-```markdown
 ## 📸 Application Screenshots
 
 ### Chat Assistant
@@ -63,7 +62,6 @@ The assistant validates the reference and returns the corresponding verse from t
 ### System Architecture
 
 ![Architecture](screenshots/image1.png)
-```
 
 
 ### 🔍 Retrieval-Augmented Generation (RAG)
