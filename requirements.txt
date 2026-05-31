@@ -1,3 +1,13 @@
-# Add application dependencies here
-flask
+```txt
+streamlit
+google-genai
+chromadb
+sentence-transformers
+torch
+transformers
+python-dotenv
 requests
+pillow
+numpy
+pandas
+```

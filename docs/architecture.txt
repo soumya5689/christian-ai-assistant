@@ -1,0 +1,33 @@
+User
+ │
+ ▼
+Streamlit UI
+ │
+ ▼
+Safety Layer
+ │
+ ▼
+Scripture Verifier
+ │
+ ▼
+Bible RAG Search
+ │
+ ▼
+ChromaDB
+ │
+ ▼
+Gemini
+ │
+ ▼
+Response
+
+
+Image Flow
+
+User Prompt
+ │
+ ▼
+Image Generator
+ │
+ ▼
+Streamlit
